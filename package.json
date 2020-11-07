@@ -1,5 +1,7 @@
 {
   "name": "bool_library",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bulma": "^0.9.1"
+  }
 }
